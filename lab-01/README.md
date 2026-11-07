@@ -8,13 +8,13 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Vemuri Jaswanth |
-| **Registration Number** | 252U1R1256 |
+| **Student Name** | Vemulawada Navaneesh |
+| **Registration Number** | 252U1R1255 |
 | **Section** | CSE-CORE-2E |
 | **Course** | Backend Development Fundamentals |
 | **Faculty** | Mr Yugandhar Gurjalwar |
 | **Institution** | Aurora Deemed-to-be-University |
-| **GitHub Repository** | [https://github.com/JaswanthCodeHub/backend_lab](https://github.com/JaswanthCodeHub/backend_lab) |
+| **GitHub Repository** | [https://github.com/navaneeshvemulawada-sudo/backend-lab](https://github.com/navaneeshvemulawada-sudo/backend-lab) |
 | **Repository Path** | `lab-01/` in course GitHub repository |
 
 ---
@@ -138,7 +138,7 @@ The Express application is constructed in [`server.js`](server.js):
 - **Response Body (`application/json`):**
   ```json
   {
-    "name": "Vemuri Jaswanth",
+    "name": "Vemulawada Navaneesh",
     "setion": "CSE CORE 2E"
   }
   ```
@@ -284,8 +284,8 @@ Through **Lab 1**, I achieved the following learning outcomes:
 
 ## 👤 Author & Academic Attribution
 
-**Vemuri Jaswanth**<br>
-**Registration Number:** `252U1R1256`<br>
+**Vemulawada Navaneesh**<br>
+**Registration Number:** `252U1R1255`<br>
 **Section:** `CSE-CORE-2E`  
 **Department of Computer Science & Engineering**  
 **Aurora Deemed-to-be-University**
