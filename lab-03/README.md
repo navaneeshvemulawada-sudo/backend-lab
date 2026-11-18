@@ -1,6 +1,6 @@
 # Lab 3: REST API, Query Parameters, Validation, and Debugging
 
-> **Local server** [http://localhost:3000](http://localhost:3000) · **Lab 04 on Render** [https://backend-lab-h2hp.onrender.com/](https://backend-lab-h2hp.onrender.com/)
+> **Local server** [http://localhost:3000](http://localhost:3000) · **Lab 03 on Render** [https://backend-lab-lab-03-884k.onrender.com/](https://backend-lab-lab-03-884k.onrender.com/)
 
 ---
 
@@ -8,13 +8,13 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Vemuri Jaswanth |
-| **Registration Number** | 252U1R1256 |
+| **Student Name** | Vemulawada Navaneesh |
+| **Registration Number** | 252U1R1255 |
 | **Section** | CSE-CORE-2E |
 | **Course** | Backend Development Fundamentals |
 | **Faculty** | Mr Yugandhar Gurjalwar |
 | **Institution** | Aurora Deemed-to-be-University |
-| **GitHub Repository** | [https://github.com/JaswanthCodeHub/backend_lab](https://github.com/JaswanthCodeHub/backend_lab) |
+| **GitHub Repository** | [https://github.com/navaneeshvemulawada-sudo/backend-lab](https://github.com/navaneeshvemulawada-sudo/backend-lab) |
 | **Repository Path** | `lab-03/` in course GitHub repository |
 
 ---
@@ -546,8 +546,8 @@ Through **Lab 3**, I achieved the following learning outcomes:
 
 ## 👤 Author & Academic Attribution
 
-**Vemuri Jaswanth**<br>
-**Registration Number:** `252U1R1256`<br>
+**Vemulawada Navaneesh**<br>
+**Registration Number:** `252U1R1255`<br>
 **Section:** `CSE-CORE-2E`  
 **Department of Computer Science & Engineering**  
 **Aurora Deemed-to-be-University**
